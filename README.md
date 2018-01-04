@@ -1,5 +1,5 @@
 # coding_challenge
-Coding Callenge 
+Coding Challenge 
 
 Your missions, if you choose to accept it is to create a React web application with the following use cases. https://reactjs.org/
 
