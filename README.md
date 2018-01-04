@@ -1,7 +1,7 @@
 # coding_challenge
 Coding Challenge 
 
-Your missions, if you choose to accept it is to create a React web application with the following use cases. https://reactjs.org/
+Your mission, if you choose to accept it, is to create a React web application with the following use cases. https://reactjs.org/
 
 1. As a user I can add an item to a list of "to-dos"
 
