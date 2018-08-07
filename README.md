@@ -20,7 +20,7 @@ A. Local storgage is fine but the choice is up to you.
 Q. Should I use something like redux to manage the state of the application?
 A. You will get bonus points for using redux since that is what we use but the choice is up to you. 
 
-Q. Should I host the application somewhere?
+Q. Should I host/publish the application somewhere like Heroku?
 A. This is not required but feel free.
 
 Q. Should there by any authentication to the application?
